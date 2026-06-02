@@ -40,14 +40,8 @@
 			<artifactId>spring-boot-starter-webmvc-test</artifactId>
 			<scope>test</scope>
 		</dependency>
-		<!-- Source: https://mvnrepository.com/artifact/com.mysql/mysql-connector-j -->
-		<dependency>
-			<groupId></groupId>
-			<artifactId></artifactId>
-			<version></version>
-			<scope>compile</scope>
-		</dependency>
-	</dependencies>h
+	</dependencies>
+
 
 	<build>
 		<plugins>
