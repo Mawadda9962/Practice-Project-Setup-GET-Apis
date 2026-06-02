@@ -19,7 +19,7 @@ public class HelloController {
 
     @GetMapping("profile")
     public Trainee getProfile(){
-
+        return new Trainee();
     }
 
 }
