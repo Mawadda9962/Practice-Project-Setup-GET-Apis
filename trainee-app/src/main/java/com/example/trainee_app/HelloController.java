@@ -17,4 +17,3 @@ public class HelloController {
         return "If you are stuck, please post your error screenshot on Slack!";
     }
 }
-t
