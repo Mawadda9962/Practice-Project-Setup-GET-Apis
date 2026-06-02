@@ -18,5 +18,8 @@ public class HelloController {
     }
 
     @GetMapping("profile")
+    public Trainee getProfile(){
+
+    }
 
 }
